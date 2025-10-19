@@ -1,4 +1,4 @@
-# **Wings Sauces**
+# **Wing Sauces**
 
 * Prep Time: 5 to 10 minutes
 * Cook Time: 5 to 10 minutes
@@ -18,7 +18,7 @@
 ## Garlic Sauce Ingredients
 
 * Unsalted Butter | 1 stick (1/4th cup)
-* Garlic Powder | 1 tbsp
+* Garlic Powder | 2 tbsp
 * Grated Parmesan Cheese | 1/6th cup (I don't add parmesan)
 
 ## Instructions
