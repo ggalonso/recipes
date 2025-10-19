@@ -20,6 +20,6 @@
 5. Refrigerate for at least 30 minutes to allow the flavors to meld and the sauce to thicken.
 6. Stir well before serving to refresh the texture.
 
-> **Note**<br>
+> **NOTE**<br>
 > If you do not have buttermilk: Mix 3/4th cup of whole milk and a table spoon of lemon. Microwave the mixture for 30 seconds on high. Cool in Refrigerator for 30 minutes. Then follow steps 1 to 6 with mixture.
 
