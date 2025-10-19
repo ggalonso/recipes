@@ -22,5 +22,5 @@
 7. Cool it until room temperature, and then refrigerate tea.
 8. Serve.
 
-> **Note**<br>
+> **NOTE**<br>
 > Use Lipton Black Tea if you desire close to Whataburger tea.
