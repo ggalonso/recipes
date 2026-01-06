@@ -2,12 +2,16 @@
 
 A collection of cooking recipes. A personal recipe repository designed for simplicity, printability, and availability.
 
+## Beverages
+
+* [Ice Tea](https://github.com/ggalonso/recipes/blob/main/beverages/ice-tea.md)
+
 ## Condiments
 
-* [Wing Sauces](https://github.com/ggalonso/recipes/blob/main/condiments/wing_sauces.md)
-* [Wingstop Ranch](https://github.com/ggalonso/recipes/blob/main/condiments/wingstop_ranch.md)
+* [Wingstop Ranch](https://github.com/ggalonso/recipes/blob/main/condiments/wingstop-ranch.md)
 
-## Drinks
+## Sauces
 
-* [Ice Tea](https://github.com/ggalonso/recipes/blob/main/drinks/ice_tea_recipe.md)
+* [Wing Sauces](https://github.com/ggalonso/recipes/tree/main/sauces)
+
 
