@@ -13,7 +13,7 @@ A collection of cooking recipes. A personal recipe repository designed for simpl
 ## Main Dishes
 
 * Vegetarian
-  * [Cheese Enchiladas] (https://github.com/ggalonso/recipes/blob/main/main-dishes/vegetarian/cheese-enchiladas.md)
+  * [Cheese Enchiladas](https://github.com/ggalonso/recipes/blob/main/main-dishes/vegetarian/cheese-enchiladas.md)
 
 ## Sauces
 
