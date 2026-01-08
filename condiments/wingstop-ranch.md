@@ -7,18 +7,30 @@
 
 ## Ingredients
 
-* Buttermilk | 3/4 cup | 
-* Mayonnaise | 3/4 cup |
-* Hidden Valley Original Ranch Seasoning | 1 oz. (2 tbsp) |
+<center>
+
+| Ingredients                      | Measurements        |
+| -------------------------------- | ------------------- |
+| Buttermilk                       | 3/4 cup             |
+| Mayonnaise                       | 3/4 cup             |
+| Hidden Valley Original Seasoning | 1 oz (2 tbsp)       |
+
+</center>
 
 ## Instructions
 
-1. In a medium mixing bowl, combine the buttermilk and mayonnaise. Whisk until smooth and well blended.
-2. Add the ranch seasoning. Stir thoroughly until completely combined and no lumps remain.
-3. Adjust the consistency by adding more buttermilk for thinne sauce or less for thicker dip.
-4. Transfer the range into an airtight container.
-5. Refrigerate for at least 30 minutes to allow the flavors to meld and the sauce to thicken.
-6. Stir well before serving to refresh the texture.
+1. Pour Buttermilk and Mayonnaise in medium sized bowl
+2. Wisk until blended
+3. Pour ranch seasoning
+4. Wisk until no clumps and blends (If you want thicker ranch add more Mayonnaise)
+5. Transfer to airtight container
+6. Refrigerate until ready to serve
 
-> **NOTE**<br>
-> If you do not have buttermilk: Mix 3/4th cup of whole milk and a table spoon of lemon. Microwave the mixture for 30 seconds on high. Cool in Refrigerator for 30 minutes. Then follow steps 1 to 6 with mixture.
+## No Buttermilk Option
+
+* If you have no buttermilk, try this alternative
+  * Mix 3/4 cups of whole milk and 1 tbsp of lemon in medium size bowl
+	* Microwave for 30 seconds on high
+	* Cool in refrigerator for 30 minutes
+  * Follow up instructions from 1 to 6
+
