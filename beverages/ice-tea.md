@@ -13,7 +13,7 @@
 | ----------- | ------------------- |
 | Tea Bags    | 3 family size       |
 | Water       | 8 cups              |
-| Sugar       | 10 cups             |
+| Sugar       | 10 tbsp             |
 
 </center>
 
