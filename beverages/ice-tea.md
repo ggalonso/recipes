@@ -9,11 +9,11 @@
 
 <center>
 
-| Ingredients | Measurements        |
-| ----------- | ------------------- |
-| Tea Bags    | 3 family size       |
-| Water       | 8 cups              |
-| Sugar       | 10 tbsp             |
+| Ingredient | Measurement        |
+| ---------- | ------------------ |
+| Tea Bags   | 3 family size      |
+| Water      | 8 cups             |
+| Sugar      | 10 tbsp            |
 
 </center>
 
