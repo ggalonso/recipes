@@ -9,11 +9,11 @@
 
 <center>
 
-| Ingredient                        | Measurment |
-| --------------------------------- | ---------- |
-| Neutral Oil (Vegetable, Avocado)  | 1 cup      |
-| Corn Tortillas                    | 20-25      |
-| Medium Cheddar, And Oaxaca Cheese | N/A        |
+| Ingredient                        | Measurement |
+| --------------------------------- | ----------- |
+| Neutral Oil (Vegetable, Avocado)  | 1 cup       |
+| Corn Tortillas                    | 20-25       |
+| Medium Cheddar, And Oaxaca Cheese | N/A         |
 
 </center>
 
@@ -21,7 +21,7 @@
 
 <center>
 
-| Ingredient                            | Measurment      |
+| Ingredient                            | Measurement     |
 | ------------------------------------- | --------------- |
 | Unsalted Butter                       | 1 tbsp          |
 | Neutral Oil (Vegetable, Avocado)      | 1 tbsp          |
