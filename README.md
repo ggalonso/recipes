@@ -17,6 +17,9 @@ A collection of cooking recipes. A personal recipe repository designed for simpl
 
 ## Sauces
 
-* [Wing Sauces](https://github.com/ggalonso/recipes/tree/main/sauces)
+* [Wing Sauces](https://github.com/ggalonso/recipes/blob/main/sauces/wing-sauces.md)
 
+## Sides
 
+* Grain
+  * [Macaroni Salad](https://github.com/ggalonso/recipes/blob/main/side-dishes/grain/macaroni-salad.md)
