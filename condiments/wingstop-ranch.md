@@ -5,15 +5,15 @@
 * Serving: 4 to 6
 * Temperature: N/A 
 
-## Ingredients
+## Overall Ingredients
 
 <center>
 
-| Ingredients                      | Measurements        |
-| -------------------------------- | ------------------- |
-| Buttermilk                       | 3/4 cup             |
-| Mayonnaise                       | 3/4 cup             |
-| Hidden Valley Original Seasoning | 1 oz (2 tbsp)       |
+| Ingredient                       | Measurement        |
+| -------------------------------- | ------------------ |
+| Buttermilk                       | 3/4 cup            |
+| Mayonnaise                       | 3/4 cup            |
+| Hidden Valley Original Seasoning | 1 oz (2 tbsp)      |
 
 </center>
 
