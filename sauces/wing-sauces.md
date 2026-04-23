@@ -11,10 +11,10 @@
 
 <center>
 
-| Ingredients                                   | Measurements        |
-| --------------------------------------------- | ------------------- |
-| Unsalted Butter                               | 1/4 cup             |
-| Frank's Red Hot Original Cayenne Pepper Sauce | 2 tbsp              |
+| Ingredient                                    | Measurement        |
+| --------------------------------------------- | ------------------ |
+| Unsalted Butter                               | 1/4 cup            |
+| Frank's Red Hot Original Cayenne Pepper Sauce | 2 tbsp             |
 
 </center>
 
@@ -22,10 +22,10 @@
 
 <center>
 
-| Ingredients            | Measurements        |
-| ---------------------- | ------------------- |
-| Unsalted Butter        | 1/4 cup             |
-| Lemon Pepper Seasoning | 2 tbsp              |
+| Ingredient             | Measurement        |
+| ---------------------- | ------------------ |
+| Unsalted Butter        | 1/4 cup            |
+| Lemon Pepper Seasoning | 2 tbsp             |
 
 </center>
 
@@ -33,11 +33,11 @@
 
 <center>
 
-| Ingredients            | Measurements        |
-| ---------------------- | ------------------- |
-| Unsalted Butter        | 1/4 cup             |
-| Garlic Powder          | 2 tbsp              |
-| Grated Parmesan Cheese | 1/6 cup             |
+| Ingredient             | Measurement        |
+| ---------------------- | ------------------ |
+| Unsalted Butter        | 1/4 cup            |
+| Garlic Powder          | 2 tbsp             |
+| Grated Parmesan Cheese | 1/6 cup            |
 
 </center>
 
