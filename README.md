@@ -14,7 +14,8 @@ A collection of cooking recipes. A personal recipe repository designed for simpl
 
 * Vegetarian
   * [Cheese Enchiladas](https://github.com/ggalonso/recipes/blob/main/main-dishes/vegetarian/cheese-enchiladas.md)
-  * [Chile Relleno] (https://github.com/ggalonso/recipes/blob/main/main-dishes/vegetarian/chile-relleno.md)
+  * [Chile Relleno](https://github.com/ggalonso/recipes/blob/main/main-dishes/vegetarian/chile-relleno.md)
+
 ## Sauces
 
 * [Wing Sauces](https://github.com/ggalonso/recipes/blob/main/sauces/wing-sauces.md)
