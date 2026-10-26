@@ -11,16 +11,17 @@
 
 | Ingredient         | Measurement        |
 | ------------------ | ------------------ |
-| Poblano Peppers    | 10                 |
+| Chili Peppers `*`  | 10                 |
 | Neutral Oil        | 2 cups, for frying |
-| Cheese `*`         | 1 cup              |
+| Cheese `**`        | 1 cup              |
 | Eggs               | 6                  |
 | Flour              | 1/2 cup + 1 tbs    |
 | Salt               | 3/4 tsp            |
 
 </center>
 
-`*` Personal choice of cheese. Personally I use Oaxaca Cheese, Mozzarella, or Muenster Cheese.
+`*` Poblano Chili Peppers are normally used. Personally I like using Hatch Green Peppers.
+`**` Personal choice of cheese. Personally I use Oaxaca Cheese, Mozzarella, or Muenster Cheese.
 
 > **Note**<br>
 > This recipe is for the Chile Rellenos only. No Sauce is added for the Chile Rellenos.
