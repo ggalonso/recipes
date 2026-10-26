@@ -20,6 +20,10 @@ A collection of cooking recipes. A personal recipe repository designed for simpl
 
 * [Wing Sauces](https://github.com/ggalonso/recipes/blob/main/sauces/wing-sauces.md)
 
+## Seasoning
+
+* [Chicken Spice Rubs](https://github.com/ggalonso/recipes/blob/main/seasoning/chicken-spice-rubs.md)
+
 ## Sides
 
 * Grain
