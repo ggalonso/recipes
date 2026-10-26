@@ -20,7 +20,7 @@
 
 </center>
 
-`*` Poblano Chili Peppers are normally used. Personally I like using Hatch Green Peppers.
+`*` Poblano Chili Peppers are normally used. Personally I like using Hatch Green Peppers.<br>
 `**` Personal choice of cheese. Personally I use Oaxaca Cheese, Mozzarella, or Muenster Cheese.
 
 > **Note**<br>
